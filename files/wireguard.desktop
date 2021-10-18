@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=Wireguard 
+Comment=My wireguard connection
+Exec=gnome-terminal -e "/bin/bash -ic "wgUP"" -t "wireguard" --hide-menubar --name=wireguard --class=wireguard
+Icon=wireguard
+Terminal=false
+Type=Application
+Categories=Network;
