@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=MPGee 
+Comment=Screen copy of phone
+Exec=scrcpy
+Icon=/home/jake/Pictures/Apps/MPGee21.png
+Terminal=false
+Type=Application
+Categories=Network;
