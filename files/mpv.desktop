@@ -1,0 +1,9 @@
+[Desktop Entry]
+Version=1.0
+Name=mpv
+Comment=mpv built from source
+Exec=mpv --player-operation-mode=pseudo-gui -- %U
+Icon=mpv
+Terminal=false
+Type=Application
+Categories=AudioVideo;
