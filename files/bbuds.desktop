@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Galaxy Buds
+Exec=/home/jake/PortableApps/gbuds.bin
+Comment=
+Terminal=false
+Icon=bbud
+Type=Application
+StartupWMClass=GalaxyBudsClient
