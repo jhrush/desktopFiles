@@ -1,7 +1,7 @@
 [Desktop Entry]
 Name=Buds
 Comment=Galaxy buds app
-Exec=/home/jake/PortableApps/gbuds.bin
+Exec=bash -c "bluetooth on; wait 3; /home/jake/PortableApps/gbuds.bin"
 Terminal=false
 Icon=bbuds
 Type=Application
