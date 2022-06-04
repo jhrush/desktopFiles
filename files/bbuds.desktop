@@ -1,8 +1,9 @@
 [Desktop Entry]
-Name=Galaxy Buds
+Name=Buds
+Comment=Galaxy buds app
 Exec=/home/jake/PortableApps/gbuds.bin
-Comment=
 Terminal=false
-Icon=bbud
+Icon=bbuds
 Type=Application
 StartupWMClass=GalaxyBudsClient
+Categories=AudioVideo;
