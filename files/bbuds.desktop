@@ -1,6 +1,7 @@
 [Desktop Entry]
 Name=Buds
 Comment=Galaxy buds app
+#Make sure that gbuds.bin is executable (chmod +x /home/jake/PortableApps/gbuds.bin)
 Exec=bash -c "bluetooth on; wait 3; /home/jake/PortableApps/gbuds.bin"
 Terminal=false
 Icon=bbuds
