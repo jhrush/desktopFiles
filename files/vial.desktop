@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Exec=vial
+Icon=mintVial
+Type=Application
+Terminal=false
+Comment=Keyboard software
+Name=Vial
+GenericName=Vial
+StartupNotify=false
+Categories=Programming;
